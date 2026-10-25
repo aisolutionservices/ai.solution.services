@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://aisolutionservices.github.io/ai.solution.services/sitemap.xml
